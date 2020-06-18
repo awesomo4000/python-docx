@@ -6,6 +6,7 @@ Text
    :titlesonly:
 
    tab-stops
+   hyperlink
    font-highlight-color
    paragraph-format
    font
@@ -13,3 +14,5 @@ Text
    underline
    run-content
    breaks
+   hyperlink
+
